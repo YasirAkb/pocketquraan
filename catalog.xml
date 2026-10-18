@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <id>urn:pocketquraan:root</id>
+  <title>Pocket Quraan Books</title>
+  <updated>2026-10-18T22:55:13Z</updated>
+  <link rel="self" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="start" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <id>urn:pocketquraan:all</id>
+    <title>All books</title>
+    <updated>2026-10-18T22:55:13Z</updated>
+    <content type="text">2 books</content>
+    <link rel="subsection" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/feeds/all-1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <id>urn:pocketquraan:cat-duaa</id>
+    <title>Duaa</title>
+    <updated>2026-10-18T22:55:13Z</updated>
+    <content type="text">1 books</content>
+    <link rel="subsection" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/feeds/cat-duaa-1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <id>urn:pocketquraan:cat-hadith</id>
+    <title>Hadith</title>
+    <updated>2026-10-18T22:55:13Z</updated>
+    <content type="text">1 books</content>
+    <link rel="subsection" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/feeds/cat-hadith-1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

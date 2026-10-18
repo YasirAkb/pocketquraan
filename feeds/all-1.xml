@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <id>urn:pocketquraan:feed:all:1</id>
+  <title>All books</title>
+  <updated>2026-10-18T22:55:13Z</updated>
+  <link rel="self" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/feeds/all-1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="start" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <id>urn:pocketquraan:books-hadith-40-sahih-hadith-epub</id>
+    <title>40 Sahih Hadith</title>
+    <updated>2026-10-18T22:55:13Z</updated>
+    <author><name>From Sahih al-Bukhari and Sahih Muslim</name></author>
+    <dc:language>en</dc:language>
+    <summary type="text">Forty authentic hadith from Sahih al-Bukhari and Sahih Muslim, Arabic and English.</summary>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-hadith-40-sahih-hadith-epub.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-hadith-40-sahih-hadith-epub.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/books/Hadith/40%20Sahih%20Hadith.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <id>urn:pocketquraan:books-duaa-everyday-duaas-epub</id>
+    <title>Everyday Duaas</title>
+    <updated>2026-10-18T22:55:13Z</updated>
+    <author><name>From the Quran and authentic Sunnah</name></author>
+    <dc:language>en</dc:language>
+    <summary type="text">Daily supplications from the Quran, Sahih al-Bukhari, Sahih Muslim and the Sunan.</summary>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-duaa-everyday-duaas-epub.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-duaa-everyday-duaas-epub.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/books/Duaa/Everyday%20Duaas.epub" type="application/epub+zip"/>
+  </entry>
+</feed>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <id>urn:pocketquraan:feed:cat-duaa:1</id>
+  <title>Duaa</title>
+  <updated>2026-10-18T22:55:13Z</updated>
+  <link rel="self" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/feeds/cat-duaa-1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="start" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <id>urn:pocketquraan:books-duaa-everyday-duaas-epub</id>
+    <title>Everyday Duaas</title>
+    <updated>2026-10-18T22:55:13Z</updated>
+    <author><name>From the Quran and authentic Sunnah</name></author>
+    <dc:language>en</dc:language>
+    <summary type="text">Daily supplications from the Quran, Sahih al-Bukhari, Sahih Muslim and the Sunan.</summary>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-duaa-everyday-duaas-epub.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-duaa-everyday-duaas-epub.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/books/Duaa/Everyday%20Duaas.epub" type="application/epub+zip"/>
+  </entry>
+</feed>
