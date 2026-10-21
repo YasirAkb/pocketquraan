@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:pocketquraan:feed:cat-poetry:1</id>
   <title>Poetry</title>
-  <updated>2026-10-21T16:03:56Z</updated>
+  <updated>2026-10-21T16:04:26Z</updated>
   <link rel="self" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/feeds/cat-poetry-1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <id>urn:pocketquraan:books-poetry-built-on-coffee-epub</id>
     <title>Built on Coffee</title>
-    <updated>2026-10-21T16:03:56Z</updated>
+    <updated>2026-10-21T16:04:26Z</updated>
     <author><name>Yasir Akban</name></author>
     <dc:language>en</dc:language>
     <summary type="text">Poems by Yasir Akban.</summary>

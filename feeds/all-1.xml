@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:pocketquraan:feed:all:1</id>
   <title>All books</title>
-  <updated>2026-10-21T16:03:56Z</updated>
+  <updated>2026-10-21T16:04:26Z</updated>
   <link rel="self" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/feeds/all-1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <id>urn:pocketquraan:books-hadith-40-sahih-hadith-epub</id>
     <title>40 Sahih Hadith</title>
-    <updated>2026-10-21T16:03:56Z</updated>
+    <updated>2026-10-21T16:04:26Z</updated>
     <author><name>From Sahih al-Bukhari and Sahih Muslim</name></author>
     <dc:language>en</dc:language>
     <summary type="text">Forty authentic hadith from Sahih al-Bukhari and Sahih Muslim, Arabic and English.</summary>
@@ -19,7 +19,7 @@
   <entry>
     <id>urn:pocketquraan:books-poetry-built-on-coffee-epub</id>
     <title>Built on Coffee</title>
-    <updated>2026-10-21T16:03:56Z</updated>
+    <updated>2026-10-21T16:04:26Z</updated>
     <author><name>Yasir Akban</name></author>
     <dc:language>en</dc:language>
     <summary type="text">Poems by Yasir Akban.</summary>
@@ -30,12 +30,32 @@
   <entry>
     <id>urn:pocketquraan:books-duaa-everyday-duaas-epub</id>
     <title>Everyday Duaas</title>
-    <updated>2026-10-21T16:03:56Z</updated>
+    <updated>2026-10-21T16:04:26Z</updated>
     <author><name>From the Quran and authentic Sunnah</name></author>
     <dc:language>en</dc:language>
     <summary type="text">Daily supplications from the Quran, Sahih al-Bukhari, Sahih Muslim and the Sunan.</summary>
     <link rel="http://opds-spec.org/image/thumbnail" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-duaa-everyday-duaas-epub.jpg" type="image/jpeg"/>
     <link rel="http://opds-spec.org/image" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-duaa-everyday-duaas-epub.jpg" type="image/jpeg"/>
     <link rel="http://opds-spec.org/acquisition" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/books/Duaa/Everyday%20Duaas.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <id>urn:pocketquraan:books-readers-choice-the-etiquette-of-seeking-knowledge-epub</id>
+    <title>The Etiquette of Seeking Knowledge</title>
+    <updated>2026-10-21T16:04:26Z</updated>
+    <author><name>Shaykh Bakr Aboo Zayd</name></author>
+    <dc:language>en</dc:language>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-readers-choice-the-etiquette-of-seeking-knowledge-epub.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-readers-choice-the-etiquette-of-seeking-knowledge-epub.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/books/Readers%20choice/The%20Etiquette%20of%20Seeking%20Knowledge.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <id>urn:pocketquraan:books-readers-choice-the-road-to-makkah-epub</id>
+    <title>The Road to Makkah</title>
+    <updated>2026-10-21T16:04:26Z</updated>
+    <author><name>Muhammad Asad</name></author>
+    <dc:language>en</dc:language>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-readers-choice-the-road-to-makkah-epub.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-readers-choice-the-road-to-makkah-epub.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/books/Readers%20choice/The%20Road%20to%20Makkah.epub" type="application/epub+zip"/>
   </entry>
 </feed>
