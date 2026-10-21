@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:pocketquraan:root</id>
   <title>Pocket Quraan Books</title>
-  <updated>2026-10-21T18:38:50Z</updated>
+  <updated>2026-10-21T18:39:16Z</updated>
   <link rel="self" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="start" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <id>urn:pocketquraan:all</id>
     <title>All books</title>
-    <updated>2026-10-21T18:38:50Z</updated>
-    <content type="text">3 books</content>
+    <updated>2026-10-21T18:39:16Z</updated>
+    <content type="text">5 books</content>
     <link rel="subsection" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/feeds/all-1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <id>urn:pocketquraan:cat-duaa</id>
     <title>Duaa</title>
-    <updated>2026-10-21T18:38:50Z</updated>
+    <updated>2026-10-21T18:39:16Z</updated>
     <content type="text">1 books</content>
     <link rel="subsection" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/feeds/cat-duaa-1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <id>urn:pocketquraan:cat-hadith</id>
     <title>Hadith</title>
-    <updated>2026-10-21T18:38:50Z</updated>
+    <updated>2026-10-21T18:39:16Z</updated>
     <content type="text">1 books</content>
     <link rel="subsection" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/feeds/cat-hadith-1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <id>urn:pocketquraan:cat-poetry</id>
     <title>Poetry</title>
-    <updated>2026-10-21T18:38:50Z</updated>
+    <updated>2026-10-21T18:39:16Z</updated>
     <content type="text">1 books</content>
     <link rel="subsection" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/feeds/cat-poetry-1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <id>urn:pocketquraan:cat-readers-choice</id>
+    <title>Readers choice</title>
+    <updated>2026-10-21T18:39:16Z</updated>
+    <content type="text">2 books</content>
+    <link rel="subsection" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/feeds/cat-readers-choice-1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
 </feed>
