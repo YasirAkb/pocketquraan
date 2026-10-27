@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:pocketquraan:feed:cat-readers-choice:1</id>
   <title>Readers choice</title>
-  <updated>2026-10-27T17:48:59Z</updated>
+  <updated>2026-10-27T18:08:01Z</updated>
   <link rel="self" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/feeds/cat-readers-choice-1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <id>urn:pocketquraan:books-readers-choice-the-etiquette-of-seeking-knowledge-1-epub</id>
     <title>The Etiquette of Seeking Knowledge</title>
-    <updated>2026-10-27T17:48:59Z</updated>
+    <updated>2026-10-27T18:08:01Z</updated>
     <author><name>Shaykh Bakr Aboo Zayd</name></author>
     <dc:language>en</dc:language>
     <link rel="http://opds-spec.org/image/thumbnail" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-readers-choice-the-etiquette-of-seeking-knowledge-1-epub.jpg" type="image/jpeg"/>
@@ -18,7 +18,7 @@
   <entry>
     <id>urn:pocketquraan:books-readers-choice-the-road-to-makkah-1-epub</id>
     <title>The Road to Makkah</title>
-    <updated>2026-10-27T17:48:59Z</updated>
+    <updated>2026-10-27T18:08:01Z</updated>
     <author><name>Muhammad Asad</name></author>
     <dc:language>en</dc:language>
     <link rel="http://opds-spec.org/image/thumbnail" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-readers-choice-the-road-to-makkah-1-epub.jpg" type="image/jpeg"/>
