@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:pocketquraan:feed:cat-readers-choice:1</id>
   <title>Readers choice</title>
-  <updated>2026-11-12T15:24:38Z</updated>
+  <updated>2026-11-12T16:16:50Z</updated>
   <link rel="self" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/feeds/cat-readers-choice-1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <id>urn:pocketquraan:books-readers-choice-the-etiquette-of-seeking-knowledge-1-epub</id>
     <title>The Etiquette of Seeking Knowledge</title>
-    <updated>2026-11-12T15:24:38Z</updated>
+    <updated>2026-11-12T16:16:50Z</updated>
     <author><name>Shaykh Bakr Aboo Zayd</name></author>
     <dc:language>en</dc:language>
     <link rel="http://opds-spec.org/image/thumbnail" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-readers-choice-the-etiquette-of-seeking-knowledge-1-epub.jpg" type="image/jpeg"/>
@@ -18,7 +18,7 @@
   <entry>
     <id>urn:pocketquraan:books-readers-choice-the-road-to-makkah-1-epub</id>
     <title>The Road to Makkah</title>
-    <updated>2026-11-12T15:24:38Z</updated>
+    <updated>2026-11-12T16:16:50Z</updated>
     <author><name>Muhammad Asad</name></author>
     <dc:language>en</dc:language>
     <link rel="http://opds-spec.org/image/thumbnail" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-readers-choice-the-road-to-makkah-1-epub.jpg" type="image/jpeg"/>
@@ -26,18 +26,9 @@
     <link rel="http://opds-spec.org/acquisition" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/books/Readers%20choice/The%20Road%20to%20Makkah-1.epub" type="application/epub+zip"/>
   </entry>
   <entry>
-    <id>urn:pocketquraan:books-readers-choice-quran-e-majeed-13-lines-1-epub</id>
-    <title>القرآن المجيد — 13 سطر</title>
-    <updated>2026-11-12T15:24:38Z</updated>
-    <dc:language>ar</dc:language>
-    <link rel="http://opds-spec.org/image/thumbnail" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-readers-choice-quran-e-majeed-13-lines-1-epub.jpg" type="image/jpeg"/>
-    <link rel="http://opds-spec.org/image" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-readers-choice-quran-e-majeed-13-lines-1-epub.jpg" type="image/jpeg"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/books/Readers%20choice/Quran_e_Majeed_13_Lines%20%281%29.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
     <id>urn:pocketquraan:books-readers-choice-quran-e-majeed-15-lines-1-epub</id>
     <title>القرآن المجيد — 15 سطر</title>
-    <updated>2026-11-12T15:24:38Z</updated>
+    <updated>2026-11-12T16:16:50Z</updated>
     <dc:language>ar</dc:language>
     <link rel="http://opds-spec.org/image/thumbnail" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-readers-choice-quran-e-majeed-15-lines-1-epub.jpg" type="image/jpeg"/>
     <link rel="http://opds-spec.org/image" href="https://raw.githubusercontent.com/YasirAkb/pocketquraan/main/covers/books-readers-choice-quran-e-majeed-15-lines-1-epub.jpg" type="image/jpeg"/>
